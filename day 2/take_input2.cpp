@@ -1,3 +1,5 @@
+// pure function is doesnot have any body
+//
 #include<iostream>
 using namespace std;
 int main()
